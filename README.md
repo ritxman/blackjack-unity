@@ -1,9 +1,10 @@
-# Blackjack (2016)
+# Blackjack
 
 <h1>Introduction</h1>
 Platform: PC (Windows)<br/>
 Engine: Unity Game Engine<br/>
-Language: C#<br/><br/>
+Language: C#<br/>
+Created on: 2016<br/><br/>
 
 <h1>Basic Blackjack Rules</h1><br/>
 <ul>
