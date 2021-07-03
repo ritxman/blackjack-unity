@@ -1,0 +1,210 @@
+fileFormatVersion: 2
+guid: 40cc143578b865d4282cb1949ef0b843
+timeCreated: 1461628316
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: club_0
+    21300002: club_2
+    21300004: club_3
+    21300006: club_4
+    21300008: club_5
+    21300010: club_6
+    21300012: club_7
+    21300014: club_8
+    21300016: club_9
+    21300018: club_1
+    21300020: club_10
+    21300022: club_11
+    21300024: club_12
+    21300026: club_13
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: club_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 956
+        width: 214
+        height: 292
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: club_0
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 953
+        width: 214
+        height: 293
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: club_2
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 955
+        width: 217
+        height: 292
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: club_3
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 955
+        width: 216
+        height: 292
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: club_4
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 957
+        width: 215
+        height: 292
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: club_5
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 958
+        width: 211
+        height: 291
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: club_6
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 666
+        width: 218
+        height: 287
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: club_7
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 662
+        width: 216
+        height: 290
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: club_8
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 664
+        width: 214
+        height: 288
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: club_9
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 665
+        width: 212
+        height: 290
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: club_10
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 664
+        width: 214
+        height: 292
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: club_11
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 88
+        width: 423
+        height: 573
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: club_12
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 94
+        width: 425
+        height: 565
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: club_13
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 101
+        width: 427
+        height: 558
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
