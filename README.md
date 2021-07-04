@@ -17,3 +17,5 @@ Created on: 2016<br/><br/>
 <li>Blackjack usually means you win 1.5 the amount of your bet. Depends on the casino.</li>
 <li>Dealer will hit until his/her cards total 17 or higher.</li>
 </ul>
+<br/>
+Copyright © 2016-2021 Ritxman. All Rights Reserved.
